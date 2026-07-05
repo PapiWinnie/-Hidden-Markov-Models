@@ -6,7 +6,7 @@ A Hidden Markov Model, implemented from scratch in numpy, that classifies four a
 
 ## Report
 
-Full report (background, methodology, results, discussion): [Google Doc](https://docs.google.com/document/d/1W04N1O0vBtjQfgOXt7a2ZxSYkRBvQB0owyZ0fUxDmI0/edit?usp=sharing)
+Full report (background, methodology, results, discussion): [Google Doc](https://drive.google.com/file/d/1DnwIOJL7mhG2gjE1L_p7RzPUjOZlSj6m/view?usp=sharing)
 
 ## Repository Contents
 
